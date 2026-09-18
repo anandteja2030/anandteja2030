@@ -302,7 +302,6 @@ It provides real-time comparison and swap visualization through a responsive int
 
 ## `07` Certifications
 
-```text
 2025
 │
 ├── Mar  ── Cisco Python Essentials 1
@@ -313,3 +312,39 @@ It provides real-time comparison and swap visualization through a responsive int
 2026
 │
 └── Mar  ── Infosys Java: Essentials
+
+<img src="assets/signals.svg" width="100%" alt="Achievements and leadership: second prize in a hackathon for a MERN-stack web application, National Event Coordinator for Lakshya 2K25 at LBRCE, AWS cloud workshop coordination, and state-level chess tournament participation." />
+
+<table width="100%"> <tr> <td width="10%" align="center">🏆</td> <td width="28%"><strong>Hackathon — 2nd Prize</strong></td> <td>Developed a MERN-stack web application.</td> </tr> <tr> <td align="center">☁️</td> <td><strong>AWS Cloud Workshops</strong></td> <td>Coordinated workshops and technical sessions for classmates.</td> </tr> <tr> <td align="center">🎤</td> <td><strong>Lakshya 2K25 — LBRCE</strong></td> <td>Served as National Event Coordinator during 2024–2025.</td> </tr> <tr> <td align="center">♟️</td> <td><strong>State-Level Chess Tournament</strong></td> <td>Competed in a tournament conducted by SGF.</td> </tr> </table>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anandteja2030&show_icons=true&hide_border=true&bg_color=0A0F16&title_color=3FBFD4&icon_color=9B7BF0&text_color=C6D2DE&ring_color=E8A33D" height="165" alt="GitHub statistics for anandteja2030" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandteja2030&layout=compact&hide_border=true&bg_color=0A0F16&title_color=3FBFD4&text_color=C6D2DE" height="165" alt="Most used programming languages on GitHub" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anandteja2030&theme=tokyonight&hide_border=true&background=0B0F19&stroke=0B0F19&ring=6366F1&fire=A78BFA&currStreakLabel=22D3EE" alt="GitHub contribution streak for anandteja2030" />
+
+</div>
+
+<div align="center">
+
+<img src="assets/footer.svg" width="100%" alt="Open to entry-level Java Full Stack Developer and software engineering opportunities." />
+
+<br /> <a href="https://github.com/anandteja2030"> <img src="https://img.shields.io/badge/GitHub-anandteja2030-0C121A?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0C121A" alt="GitHub — anandteja2030" /> </a>
+
+ 
+
+<a href="https://linkedin.com/in/anandteja2030"> <img src="https://img.shields.io/badge/LinkedIn-anandteja2030-0C121A?style=for-the-badge&logo=linkedin&logoColor=60A5FA&labelColor=0C121A" alt="LinkedIn — anandteja2030" /> </a>
+
+ 
+
+<a href="mailto:anandtejadasari52@gmail.com"> <img src="https://img.shields.io/badge/Email-anandtejadasari52%40gmail.com-0C121A?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=0C121A" alt="Email — anandtejadasari52@gmail.com" /> </a>
+
+<br /><br />
+
+<sub>Building. Learning. Debugging. Repeating. · © Anand Teja Dasari</sub>
+
+</div>
