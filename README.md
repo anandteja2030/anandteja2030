@@ -1,119 +1,315 @@
-<img src="assets/hero.svg" width="100%" alt="Anand Teja Dasari — aspiring Java full stack developer, AI & Data Science undergraduate. CGPA 8.87/10, B.Tech at LBRCE, graduating 2027."/>
+<!-- =========================================================
+     ANAND TEJA DASARI — GITHUB PROFILE README
+     Animated visual system powered by custom SVG assets
+     ========================================================= -->
 
-<p align="center">
-  <a href="https://github.com/anandteja2030"><img src="https://img.shields.io/badge/GitHub-anandteja2030-C6D2DE?style=flat-square&logo=github&logoColor=C6D2DE&labelColor=0C121A&color=0C121A" alt="GitHub: anandteja2030"/></a>
-  &nbsp;
-  <a href="https://linkedin.com/in/anandteja2030"><img src="https://img.shields.io/badge/LinkedIn-anandteja2030-C6D2DE?style=flat-square&logo=linkedin&logoColor=5B9CF8&labelColor=0C121A&color=0C121A" alt="LinkedIn: anandteja2030"/></a>
-  &nbsp;
-  <a href="mailto:anandtejadasari52@gmail.com"><img src="https://img.shields.io/badge/Email-anandtejadasari52@gmail.com-C6D2DE?style=flat-square&logo=gmail&logoColor=E8A33D&labelColor=0C121A&color=0C121A" alt="Email: anandtejadasari52@gmail.com"/></a>
+<div align="center">
+
+  <img
+    src="assets/hero.svg"
+    width="100%"
+    alt="Anand Teja Dasari — Aspiring Java Full Stack Developer and Artificial Intelligence & Data Science undergraduate. B.Tech at LBRCE, CGPA 8.87 out of 10."
+  />
+
+  <br />
+
+  <p align="center">
+    <a href="https://github.com/anandteja2030">
+      <img
+        src="https://img.shields.io/badge/GitHub-anandteja2030-0C121A?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0C121A"
+        alt="GitHub — anandteja2030"
+      />
+    </a>
+    &nbsp;
+    <a href="https://linkedin.com/in/anandteja2030">
+      <img
+        src="https://img.shields.io/badge/LinkedIn-anandteja2030-0C121A?style=for-the-badge&logo=linkedin&logoColor=60A5FA&labelColor=0C121A"
+        alt="LinkedIn — anandteja2030"
+      />
+    </a>
+    &nbsp;
+    <a href="mailto:anandtejadasari52@gmail.com">
+      <img
+        src="https://img.shields.io/badge/Email-Contact-0C121A?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=0C121A"
+        alt="Email — Contact Anand Teja Dasari"
+      />
+    </a>
+    &nbsp;
+    <img
+      src="https://komarev.com/ghpvc/?username=anandteja2030&style=for-the-badge&color=1E1B4B&labelColor=0C121A&label=PROFILE+VIEWS"
+      alt="GitHub profile views"
+    />
+  </p>
+
+</div>
+
+<br />
+
+---
+
+## `01` About
+
+I'm an **Artificial Intelligence and Data Science undergraduate** with working knowledge of **Java, Object-Oriented Programming, Data Structures and Algorithms, SQL, HTML, CSS, and JavaScript**.
+
+I'm currently seeking an **entry-level Java Full Stack Developer** opportunity where I can apply my programming and problem-solving skills to real engineering problems, supported by hands-on project work in machine learning and web development and internship experience across AI and full-stack workflows.
+
+### Engineering Focus
+
+<table width="100%">
+  <tr>
+    <td align="center" width="16%">
+      🎓<br />
+      <sub><b>AI & Data Science</b></sub>
+    </td>
+    <td align="center" width="16%">
+      ☕<br />
+      <sub><b>Java · OOP</b></sub>
+    </td>
+    <td align="center" width="16%">
+      🧠<br />
+      <sub><b>ML / NLP</b></sub>
+    </td>
+    <td align="center" width="16%">
+      🌐<br />
+      <sub><b>Full-Stack Web</b></sub>
+    </td>
+    <td align="center" width="16%">
+      🧩<br />
+      <sub><b>DSA</b></sub>
+    </td>
+    <td align="center" width="16%">
+      📊<br />
+      <sub><b>Data Analysis</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<img
+  src="assets/stack.svg"
+  width="100%"
+  alt="Technical stack covering Java, Python, C, SQL, HTML5, CSS3, JavaScript, machine learning and data technologies, GitHub, VS Code, Streamlit, data structures, algorithms, object-oriented programming and problem solving."
+/>
+
+---
+
+## `02` Technical Arsenal
+
+### Core Languages
+
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=java,python,c&theme=dark"
+    alt="Java, Python and C"
+  />
 </p>
 
-<br/>
+### Web Technologies
 
-I'm an Artificial Intelligence and Data Science undergraduate who writes Java for structure and Python for experiments. Most of what I build lands in one of two places: a model that has to be explainable rather than just accurate, or an interface that makes something abstract easier to see. I'm looking for an entry-level Java full stack role where both of those habits are useful.
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js&theme=dark"
+    alt="HTML5, CSS3 and JavaScript"
+  />
+</p>
 
-<br/>
+### Database
 
-<img src="assets/stack.svg" width="100%" alt="Stack — Languages: Java, Python, C, SQL. Web: HTML5, CSS3, JavaScript, MERN workflow. AI and data: Scikit-learn, XGBoost, LightGBM, Sentence-BERT, TF-IDF, Pandas, Streamlit. Practice: data structures, algorithms, object-oriented programming, Git and GitHub, VS Code."/>
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=mysql&theme=dark"
+    alt="SQL / MySQL icon representing SQL database knowledge"
+  />
+</p>
 
-## `06` Technical Arsenal
+### AI & Data
 
-**Core Languages**
+<p>
+  <img
+    src="https://img.shields.io/badge/scikit--learn-0B0F19?style=flat-square&logo=scikitlearn&logoColor=F97316"
+    alt="Scikit-learn"
+  />
+  <img
+    src="https://img.shields.io/badge/XGBoost-0B0F19?style=flat-square&logoColor=93C5FD"
+    alt="XGBoost"
+  />
+  <img
+    src="https://img.shields.io/badge/LightGBM-0B0F19?style=flat-square&logoColor=22D3EE"
+    alt="LightGBM"
+  />
+  <img
+    src="https://img.shields.io/badge/Sentence--BERT-0B0F19?style=flat-square&logoColor=A78BFA"
+    alt="Sentence-BERT"
+  />
+  <img
+    src="https://img.shields.io/badge/TF--IDF-0B0F19?style=flat-square&logoColor=A78BFA"
+    alt="TF-IDF"
+  />
+  <img
+    src="https://img.shields.io/badge/Pandas-0B0F19?style=flat-square&logo=pandas&logoColor=93C5FD"
+    alt="Pandas"
+  />
+  <img
+    src="https://img.shields.io/badge/Streamlit-0B0F19?style=flat-square&logo=streamlit&logoColor=F97316"
+    alt="Streamlit"
+  />
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,python,c&theme=dark" alt="Java, Python, C"/>
+### Development Tools
 
-**Web**
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"
+    alt="Git, GitHub and VS Code"
+  />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML5, CSS3, JavaScript"/>
+### Computer Science Foundations
 
-**Databases**
+`Object-Oriented Programming` · `Data Structures & Algorithms` · `Problem Solving`
 
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="SQL"/>
+---
 
-**Data / AI**
+## `03` Featured Project
 
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-0B0F19?style=flat-square&logo=scikitlearn&logoColor=F97316)
-![XGBoost](https://img.shields.io/badge/XGBoost-0B0F19?style=flat-square&logo=xgboost&logoColor=93C5FD)
-![LightGBM](https://img.shields.io/badge/LightGBM-0B0F19?style=flat-square&logoColor=22D3EE)
-![Sentence-BERT](https://img.shields.io/badge/Sentence--BERT-0B0F19?style=flat-square&logoColor=A78BFA)
-![TF-IDF](https://img.shields.io/badge/TF--IDF-0B0F19?style=flat-square&logoColor=A78BFA)
-![Pandas](https://img.shields.io/badge/Pandas-0B0F19?style=flat-square&logo=pandas&logoColor=93C5FD)
+<img
+  src="assets/project-fake-review.svg"
+  width="100%"
+  alt="Explainable Fake Review Detection project visualization showing 8,000 labeled reviews, four feature categories, a three-model stacking ensemble and a Streamlit dashboard with 94.42 percent accuracy and 94.58 percent F1 score."
+/>
 
-**Development**
+### Explainable Fake Review Detection Using Hybrid NLP & Stacking Ensemble Learning
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, VS Code"/>
-![Streamlit](https://img.shields.io/badge/Streamlit-0B0F19?style=flat-square&logo=streamlit&logoColor=F97316)
+**June 2025**
 
-<br/>
+An explainable fake-review detection system built on a balanced dataset of **8,000 reviews**, consisting of **50% fake and 50% genuine reviews**.
 
-<img src="assets/project-fake-review.svg" width="100%" alt="Explainable fake review detection — pipeline from 8,000 labeled reviews through 4 feature categories into a 3-model stacking ensemble and a Streamlit dashboard. 94.42% accuracy, 94.58% F1 score."/>
+The system engineers four feature categories:
 
-### Explainable Fake Review Detection Using Hybrid NLP &amp; Stacking Ensemble Learning
+- TF-IDF
+- Sentence-BERT embeddings
+- Sentiment analysis
+- Handcrafted linguistic attributes
 
-Fake reviews are easy to flag and hard to justify, so the goal here was a system that shows its reasoning. I trained on a balanced dataset of 8,000 reviews (50% fake, 50% genuine) and engineered four feature categories — TF-IDF, Sentence-BERT embeddings, sentiment analysis, and handcrafted linguistic attributes — then stacked Logistic Regression, XGBoost, and LightGBM into a single classifier reaching **94.42% accuracy** and a **94.58% F1 score**. The Streamlit dashboard returns a trust score, a fake-review probability estimate and visual analytics alongside the prediction, so a reviewer can see why a review was flagged, not just that it was.
+These features feed a **3-model stacking ensemble** consisting of:
+
+- Logistic Regression
+- XGBoost
+- LightGBM
+
+The resulting system achieved:
+
+| Metric | Result |
+|---|---:|
+| Accuracy | **94.42%** |
+| F1 Score | **94.58%** |
+| Dataset | **8,000 reviews** |
+| Ensemble | **3 models** |
+
+The project also includes an interactive **Streamlit dashboard** presenting trust scores, fake-review probability estimates, explainable predictions, and visual analytics.
+
+**Technology**
 
 `Python` `Streamlit` `Scikit-learn` `XGBoost` `LightGBM` `Sentence-BERT` `TF-IDF` `Pandas`
 
-<br/>
+<br />
 
-<img src="assets/project-sorting-visualizer.svg" width="100%" alt="Interactive sorting algorithm visualizer — bubble, selection, insertion, merge and quick sort, with custom array input, random array generation, animation speed and performance statistics. Built with HTML5, CSS3 and JavaScript."/>
+---
+
+## `04` Project Lab
+
+<img
+  src="assets/project-sorting-visualizer.svg"
+  width="100%"
+  alt="Interactive Sorting Algorithm Visualizer showing Bubble Sort, Selection Sort, Insertion Sort, Merge Sort and Quick Sort, with custom arrays, random generation, animation speed control and performance statistics."
+/>
 
 ### Interactive Sorting Algorithm Visualizer
 
-Sorting is usually taught as pseudocode and understood as a shrug. This one animates every comparison and swap across **five algorithms** — bubble, selection, insertion, merge and quick sort — with **four controls**: custom array input, random array generation, adjustable animation speed, and performance-statistics tracking. No framework, and a responsive CSS3 layout so each step stays readable at any width.
+**September 2025**
+
+An interactive browser-based application that demonstrates sorting algorithms through **animated, step-by-step visualizations**.
+
+Implemented algorithms:
+
+`Bubble Sort` · `Selection Sort` · `Insertion Sort` · `Merge Sort` · `Quick Sort`
+
+The application includes four interactive controls:
+
+`Custom Array Input` · `Random Array Generation` · `Adjustable Animation Speed` · `Performance Statistics`
+
+It provides real-time comparison and swap visualization through a responsive interface built with:
 
 `HTML5` `CSS3` `JavaScript`
 
-<br/>
+---
 
-<img src="assets/timeline.svg" width="100%" alt="Track record — B.Tech in AI and Data Science at LBRCE 2023 to 2027, CGPA 8.87/10. March 2025 Cisco Python Essentials 1 and Complete Front End Development Journey; June to July 2025 AI intern at Mindenious; August 2025 HackerRank Java Basic; October 2025 AWS Certified Cloud Practitioner; March 2026 Infosys Java Essentials; May to June 2026 MERN Stack intern at CSC India APSCHE."/>
+## `05` Experience
 
-### Experience
+<img
+  src="assets/timeline.svg"
+  width="100%"
+  alt="Academic and professional timeline showing B.Tech at LBRCE, certifications from 2025 to 2026, AI internship at Mindenious, MERN Stack internship at CSC India APSCHE, and graduation in 2027."
+/>
 
-**AI Intern — Mindenious** · Jun 2025 – Jul 2025<br/>
-Applied Python-based machine-learning methods for data preprocessing and predictive modeling, evaluated algorithms for analysis and prediction tasks, ran exploratory data analysis to surface patterns, debugged and optimized assigned modules within deadlines, and collaborated on project structure and version control with Git.
+### AI Intern — Mindenious
 
-**MERN Stack Intern — CSC India (APSCHE)** · May 2026 – Jun 2026<br/>
-Worked across frontend, backend and database connectivity, integrated components into functional full-stack applications, managed application data through CRUD operations, and gained practical experience in debugging, testing and deployment workflows.
+**Jun 2025 – Jul 2025**
 
-### Education
+- Applied Python-based machine-learning methods for data preprocessing and predictive modeling.
+- Evaluated machine-learning algorithms for data analysis and prediction tasks.
+- Conducted exploratory data analysis to identify patterns and derive actionable insights.
+- Debugged and optimized assigned project modules.
+- Completed assigned tasks within required deadlines.
+- Collaborated with team members on project structure and version control using Git.
 
-**B.Tech, Artificial Intelligence and Data Science** — Lakireddy Bali Reddy College of Engineering (LBRCE), 2023 – 2027 · **CGPA 8.87/10**<br/>
-**Intermediate** — Andhra Loyola College, 2021 – 2023 · **85%**<br/>
-**SSC** — Z.P.H.S, Podu, 2020 – 2021 · **83%**
+### MERN Stack Intern — CSC India (APSCHE)
 
-### Certifications
+**May 2026 – Jun 2026**
 
-- HackerRank Java (Basic) — Aug 2025
-- Infosys Java: Essentials — Mar 2026
-- Cisco Python Essentials 1 — Mar 2025
-- Complete Front End Development Journey — Mar 2025
-- AWS Certified Cloud Practitioner — Oct 2025
+- Gained exposure to full-stack web development across frontend, backend, database connectivity, and application integration.
+- Integrated frontend and backend components into functional full-stack web applications.
+- Practiced Create, Read, Update, and Delete operations.
+- Gained practical experience in debugging, testing, and application deployment workflows.
 
-<br/>
+---
 
-<img src="assets/signals.svg" width="100%" alt="Beyond the code — 2nd prize in a hackathon for a MERN-stack web application; National Event Coordinator for Lakshya 2K25 at LBRCE; coordinated AWS cloud workshops and technical sessions for classmates; competed in a state-level chess tournament conducted by SGF."/>
+## `06` Education
 
-- **2nd Prize, hackathon** — for developing a MERN-stack web application
-- **National Event Coordinator, Lakshya 2K25, LBRCE** (2024 – 2025)
-- **AWS cloud workshops** — coordinated workshops and technical sessions for classmates
-- **State-Level Chess Tournament** — competed in a tournament conducted by SGF
+<table width="100%">
+  <tr>
+    <td width="72%">
+      <strong>B.Tech, Artificial Intelligence and Data Science</strong><br />
+      Lakireddy Bali Reddy College of Engineering (LBRCE)<br />
+      2023 – 2027
+    </td>
+    <td width="28%" align="center">
+      <strong>8.87 / 10</strong><br />
+      <sub>CGPA</sub>
+    </td>
+  </tr>
+</table>
 
-<br/>
+<br />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anandteja2030&show_icons=true&hide_border=true&bg_color=0A0F16&title_color=3FBFD4&icon_color=9B7BF0&text_color=C6D2DE&ring_color=E8A33D" height="170" alt="GitHub statistics for anandteja2030"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandteja2030&layout=compact&hide_border=true&bg_color=0A0F16&title_color=3FBFD4&text_color=C6D2DE" height="170" alt="Most used languages"/>
-</p>
+| Level | Institution | Duration | Score |
+|---|---|---|---:|
+| Intermediate | Andhra Loyola College | 2021 – 2023 | **85%** |
+| SSC | Z.P.H.S, Podu | 2020 – 2021 | **83%** |
 
-<br/>
+---
 
-<img src="assets/footer.svg" width="100%" alt="Open to entry-level Java full stack and software engineering roles. github.com/anandteja2030, linkedin.com/in/anandteja2030, anandtejadasari52@gmail.com."/>
+## `07` Certifications
 
-<p align="center">
-  <a href="https://github.com/anandteja2030"><img src="https://img.shields.io/badge/GitHub-C6D2DE?style=flat-square&logo=github&logoColor=C6D2DE&labelColor=0C121A&color=0C121A" alt="GitHub"/></a>
-  &nbsp;
-  <a href="https://linkedin.com/in/anandteja2030"><img src="https://img.shields.io/badge/LinkedIn-C6D2DE?style=flat-square&logo=linkedin&logoColor=5B9CF8&labelColor=0C121A&color=0C121A" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="mailto:anandtejadasari52@gmail.com"><img src="https://img.shields.io/badge/Email-C6D2DE?style=flat-square&logo=gmail&logoColor=E8A33D&labelColor=0C121A&color=0C121A" alt="Email"/></a>
-</p>
+```text
+2025
+│
+├── Mar  ── Cisco Python Essentials 1
+├── Mar  ── Complete Front End Development Journey
+├── Aug  ── HackerRank Java (Basic)
+└── Oct  ── AWS Certified Cloud Practitioner
+│
+2026
+│
+└── Mar  ── Infosys Java: Essentials
