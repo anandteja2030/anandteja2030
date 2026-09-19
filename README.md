@@ -45,7 +45,7 @@
 
 ## Technical System
 
-<img src="assets/stack.svg" width="100%" alt="Technical stack in five layers. Languages: Java, Python, C, SQL. Web: HTML5, CSS3, JavaScript. Development: GitHub, VS Code. Foundations: Object-Oriented Programming, Data Structures and Algorithms, Problem Solving." />
+<img src="assets/stack.svg" width="100%" alt="Technical stack in five layers. Languages: Java, Python, C, SQL. Web: HTML5, CSS3, JavaScript. Development workspace illustration. Development: GitHub, VS Code. Foundations: Object-Oriented Programming, Data Structures and Algorithms, Problem Solving." />
 
 <br />
 
