@@ -202,8 +202,10 @@ An interactive browser app that turns **sorting algorithms into animated, step-b
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anandteja2030&show_icons=true&hide_border=false&border_color=1F2E4B&border_radius=14&bg_color=0B1220&title_color=22D3EE&icon_color=8B5CF6&text_color=C9D4E5" width="49%" alt="GitHub statistics for anandteja2030" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandteja2030&layout=compact&hide_border=false&border_color=1F2E4B&border_radius=14&bg_color=0B1220&title_color=22D3EE&text_color=C9D4E5" width="49%" alt="Most used languages on GitHub for anandteja2030" />
+<img src="assets/github-stats.svg" width="100%" alt="Illustrative GitHub developer activity visual for anandteja2030: a contribution-style grid and a Building, Learning, Contributing, Growing flow. Conceptual illustration, not live statistics." />
+<img src="assets/most-used-languages.svg" width="100%" alt="Core development languages: Java as the primary language, with HTML5, CSS3 and JavaScript." />
+
+<img src="https://streak-stats.demolab.com?user=anandteja2030&theme=dark&background=0B1220&border=1F2E4B&border_radius=14&ring=22D3EE&fire=8B5CF6&currStreakNum=F1F5F9&currStreakLabel=22D3EE&sideNums=F1F5F9&sideLabels=8DA0BC&dates=8DA0BC" width="70%" alt="GitHub contribution streak for anandteja2030" />
 
 <img src="https://streak-stats.demolab.com?user=anandteja2030&theme=dark&background=0B1220&border=1F2E4B&border_radius=14&ring=22D3EE&fire=8B5CF6&currStreakNum=F1F5F9&currStreakLabel=22D3EE&sideNums=F1F5F9&sideLabels=8DA0BC&dates=8DA0BC" width="70%" alt="GitHub contribution streak for anandteja2030" />
 
