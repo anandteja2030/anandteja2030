@@ -16,18 +16,36 @@
 
 ## Developer Profile
 
-> **AI & Data Science undergraduate** building toward an **entry-level Java Full Stack Developer** role.
+> **AI & Data Science undergraduate** with a **Java Full Stack Developer** direction. I build with Java fundamentals, web technologies and applied machine learning, and I am targeting an **entry-level** role.
 
-- **Core** — Java · Object-Oriented Programming · Data Structures & Algorithms · SQL
-- **Web** — HTML5 · CSS3 · JavaScript, plus MERN-stack internship and hackathon exposure
-- **Applied AI** — Python machine-learning pipelines, NLP feature engineering, ensemble models
-- **Approach** — Problem solving through working projects, measured results and version-controlled collaboration
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <strong>☕ Java Foundations</strong><br />
+      <sub>Java · Object-Oriented Programming · Data Structures & Algorithms · SQL</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong>🌐 Web Development</strong><br />
+      <sub>HTML5 · CSS3 · JavaScript · 2nd Prize in a hackathon for a MERN-stack web application</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>🧠 Applied AI</strong><br />
+      <sub>Python ML pipelines · NLP feature engineering · stacking ensembles</sub>
+    </td>
+    <td valign="top">
+      <strong>⚙️ Working Style</strong><br />
+      <sub>Project-driven learning · measurable results · Git-based collaboration</sub>
+    </td>
+  </tr>
+</table>
 
 <br />
 
 ## Technical System
 
-<img src="assets/stack.svg" width="100%" alt="Technical stack in five layers. Languages: Java, Python, C, SQL. Web: HTML5, CSS3, JavaScript. AI and Data: Scikit-learn, XGBoost, LightGBM, Sentence-BERT, TF-IDF, Pandas, Streamlit. Development: GitHub, VS Code. Foundations: Object-Oriented Programming, Data Structures and Algorithms, Problem Solving." />
+<img src="assets/stack.svg" width="100%" alt="Technical stack in five layers. Languages: Java, Python, C, SQL. Web: HTML5, CSS3, JavaScript. Development: GitHub, VS Code. Foundations: Object-Oriented Programming, Data Structures and Algorithms, Problem Solving." />
 
 <br />
 
@@ -37,7 +55,24 @@
 
 <img src="assets/project-fake-review.svg" width="100%" alt="Pipeline visualization of Explainable Fake Review Detection: 8,000 reviews, four feature categories, a three-model stacking ensemble, trust score and explainable predictions in a Streamlit dashboard. Accuracy 94.42%, F1 score 94.58%." />
 
-**Hybrid NLP & Stacking Ensemble Learning.** Trained on a balanced dataset of 8,000 reviews (50% fake, 50% genuine). Four feature categories — TF-IDF, Sentence-BERT embeddings, sentiment analysis and handcrafted linguistic attributes — feed a 3-model stacking ensemble of Logistic Regression, XGBoost and LightGBM, reaching **94.42% accuracy** and a **94.58% F1 score**. A Streamlit dashboard presents trust scores, fake-review probability estimates, explainable predictions and visual analytics.
+`Dataset` → `Features` → `Stacking Ensemble` → `Explainable Dashboard`
+
+<table width="100%">
+  <tr>
+    <td align="center" width="25%"><h3>94.42%</h3><sub>ACCURACY</sub></td>
+    <td align="center" width="25%"><h3>94.58%</h3><sub>F1 SCORE</sub></td>
+    <td align="center" width="25%"><h3>8,000</h3><sub>REVIEWS</sub></td>
+    <td align="center" width="25%"><h3>3</h3><sub>STACKED MODELS</sub></td>
+  </tr>
+</table>
+
+**Hybrid NLP & Stacking Ensemble Learning**
+
+- **Dataset** — Balanced set of **8,000 reviews**: **50% fake** · **50% genuine**
+- **Features** — 4 categories: `TF-IDF` · `Sentence-BERT embeddings` · `Sentiment analysis` · `Handcrafted linguistic attributes`
+- **Model** — Stacking ensemble of `Logistic Regression` + `XGBoost` + `LightGBM`
+- **Results** — **94.42% accuracy** · **94.58% F1 score**
+- **Dashboard** — Streamlit interface with **trust scores**, **fake-review probability**, **explainable predictions** and **visual analytics**
 
 `Python` `Streamlit` `Scikit-learn` `XGBoost` `LightGBM` `Sentence-BERT` `TF-IDF` `Pandas`
 
@@ -47,7 +82,17 @@
 
 <img src="assets/project-sorting-visualizer.svg" width="100%" alt="Algorithm lab visualization of the Interactive Sorting Algorithm Visualizer: Bubble, Selection, Insertion, Merge and Quick Sort with comparison, swap, partition, merge and sorted states, plus four controls — custom array input, random array generation, adjustable animation speed and performance statistics." />
 
-**Algorithm behavior made visible.** A browser-based application that demonstrates **5 sorting algorithms** — Bubble, Selection, Insertion, Merge and Quick Sort — through animated, step-by-step visualizations with real-time comparison and swap display. **4 interactive controls**: custom array input, random array generation, adjustable animation speed and performance-statistics tracking. The interface is responsive, built with CSS3.
+An interactive browser app that turns **sorting algorithms into animated, step-by-step visuals**, with real-time **comparison** and **swap** display.
+
+| ⚙️ 5 Algorithms | 🎛️ 4 Interactive Controls |
+| :-- | :-- |
+| `Bubble Sort` | **1.** Custom array input |
+| `Selection Sort` | **2.** Random array generation |
+| `Insertion Sort` | **3.** Adjustable animation speed |
+| `Merge Sort` | **4.** Performance statistics |
+| `Quick Sort` | |
+
+**Built to demonstrate:** algorithm logic · JavaScript-driven animation · interactive UI · responsive **CSS3** layout
 
 `HTML5` `CSS3` `JavaScript`
 
@@ -57,31 +102,93 @@
 
 <img src="assets/timeline.svg" width="100%" alt="Timeline from 2023 to 2027. B.Tech in Artificial Intelligence and Data Science at LBRCE with CGPA 8.87 out of 10. AI Intern at Mindenious, June to July 2025. MERN Stack Intern at CSC India (APSCHE), May to June 2026. Projects: Fake Review Detection in June 2025 and Sorting Visualizer in September 2025." />
 
-**AI Intern — Mindenious** · Jun 2025 – Jul 2025
-Applied Python-based machine-learning methods for preprocessing and predictive modeling, evaluated algorithms, ran exploratory data analysis to surface patterns, debugged and optimized assigned modules within deadlines, and collaborated on project structure and version control using Git.
+<table width="100%">
+  <tr>
+    <td>
+      <h3>AI Intern — Mindenious</h3>
+      <code>Jun 2025 – Jul 2025</code><br /><br />
+      <code>Python</code> <code>Machine Learning</code> <code>EDA</code> <code>Git</code><br /><br />
+      ▸ Applied Python-based ML methods for <strong>data preprocessing</strong> and <strong>predictive modeling</strong><br />
+      ▸ Evaluated ML algorithms for data analysis and prediction tasks<br />
+      ▸ Ran <strong>exploratory data analysis</strong> to identify patterns and derive insights<br />
+      ▸ <strong>Debugged and optimized</strong> assigned project modules, completing tasks within deadlines<br />
+      ▸ Collaborated on project structure and <strong>version control using Git</strong>
+    </td>
+  </tr>
+</table>
 
-**MERN Stack Intern — CSC India (APSCHE)** · May 2026 – Jun 2026
-Gained exposure to full-stack concepts across frontend, backend, database connectivity and application integration. Integrated frontend and backend components into functional applications, practiced Create, Read, Update and Delete operations, and worked through debugging, testing and deployment workflows.
+<table width="100%">
+  <tr>
+    <td>
+      <h3>MERN Stack Intern — CSC India (APSCHE)</h3>
+      <code>May 2026 – Jun 2026</code><br /><br />
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code><br /><br />
+      ▸ Learned and practiced <strong>HTML</strong> for structuring web pages<br />
+      ▸ Learned and practiced <strong>CSS</strong> for styling and layout<br />
+      ▸ Learned and practiced <strong>JavaScript</strong> for web page behavior
+    </td>
+  </tr>
+</table>
 
 <br />
 
 ## Education & Certifications
 
-### B.Tech · Artificial Intelligence and Data Science &nbsp;`CGPA 8.87 / 10`
+<table width="100%">
+  <tr>
+    <td width="72%" valign="middle">
+      <h3>B.Tech · Artificial Intelligence and Data Science</h3>
+      Lakireddy Bali Reddy College of Engineering (LBRCE)<br />
+      <code>2023 – 2027</code>
+    </td>
+    <td width="28%" align="center" valign="middle">
+      <h2>8.87 / 10</h2>
+      <sub>CGPA</sub>
+    </td>
+  </tr>
+</table>
 
-Lakireddy Bali Reddy College of Engineering (LBRCE) · 2023 – 2027
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Intermediate</strong> · <code>85%</code><br />
+      <sub>Andhra Loyola College · 2021 – 2023</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong>SSC</strong> · <code>83%</code><br />
+      <sub>Z.P.H.S, Podu · 2020 – 2021</sub>
+    </td>
+  </tr>
+</table>
 
-<sub>Intermediate — Andhra Loyola College · 2021 – 2023 · 85% &nbsp;|&nbsp; SSC — Z.P.H.S, Podu · 2020 – 2021 · 83%</sub>
+### Certifications
 
-<br />
-
-| Certification | Issued |
-| :-- | :-- |
-| AWS Certified Cloud Practitioner | Oct 2025 |
-| Infosys Java: Essentials | Mar 2026 |
-| HackerRank Java (Basic) | Aug 2025 |
-| Cisco Python Essentials 1 | Mar 2025 |
-| Complete Front End Development Journey | Mar 2025 |
+<table width="100%">
+  <tr>
+    <td width="25%" valign="top" align="center">
+      <strong>☁️ Cloud</strong><br /><br />
+      AWS Certified Cloud Practitioner<br />
+      <code>Oct 2025</code>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <strong>☕ Java</strong><br /><br />
+      HackerRank Java (Basic)<br />
+      <code>Aug 2025</code><br /><br />
+      Infosys Java: Essentials<br />
+      <code>Mar 2026</code>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <strong>🐍 Python</strong><br /><br />
+      Cisco Python Essentials 1<br />
+      <code>Mar 2025</code>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <strong>🎨 Front End</strong><br /><br />
+      Complete Front End Development Journey<br />
+      <code>Mar 2025</code>
+    </td>
+  </tr>
+</table>
 
 <br />
 
