@@ -207,7 +207,6 @@ An interactive browser app that turns **sorting algorithms into animated, step-b
 
 <img src="https://streak-stats.demolab.com?user=anandteja2030&theme=dark&background=0B1220&border=1F2E4B&border_radius=14&ring=22D3EE&fire=8B5CF6&currStreakNum=F1F5F9&currStreakLabel=22D3EE&sideNums=F1F5F9&sideLabels=8DA0BC&dates=8DA0BC" width="70%" alt="GitHub contribution streak for anandteja2030" />
 
-<img src="https://streak-stats.demolab.com?user=anandteja2030&theme=dark&background=0B1220&border=1F2E4B&border_radius=14&ring=22D3EE&fire=8B5CF6&currStreakNum=F1F5F9&currStreakLabel=22D3EE&sideNums=F1F5F9&sideLabels=8DA0BC&dates=8DA0BC" width="70%" alt="GitHub contribution streak for anandteja2030" />
 
 </div>
 
