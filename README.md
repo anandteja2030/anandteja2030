@@ -224,4 +224,4 @@ An interactive browser app that turns **sorting algorithms into animated, step-b
 &nbsp;
 <a href="mailto:anandtejadasari52@gmail.com"><img src="https://img.shields.io/badge/Email-anandtejadasari52%40gmail.com-0B1220?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=0B1220" alt="Email — anandtejadasari52@gmail.com" /></a>
 
-</div>
+</div> 
