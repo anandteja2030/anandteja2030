@@ -32,7 +32,7 @@
   <tr>
     <td valign="top">
       <strong>🧠 Applied AI</strong><br />
-      <sub>Python ML pipelines · NLP feature engineering · stacking ensembles</sub>
+      <sub>Python ML pipelines · NLP feature engineering · stacking ensembles</sub>  
     </td>
     <td valign="top">
       <strong>⚙️ Working Style</strong><br />
@@ -51,7 +51,7 @@
 
 ## Project Lab
 
-### Explainable Fake Review Detection <sub>· June 2025</sub>
+### Explainable Fake Review Detection <sub>· June 2025</sub>  
 
 <img src="assets/project-fake-review.svg" width="100%" alt="Pipeline visualization of Explainable Fake Review Detection: 8,000 reviews, four feature categories, a three-model stacking ensemble, trust score and explainable predictions in a Streamlit dashboard. Accuracy 94.42%, F1 score 94.58%." />
 
@@ -59,7 +59,7 @@
 
 <table width="100%">
   <tr>
-    <td align="center" width="25%"><h3>94.42%</h3><sub>ACCURACY</sub></td>
+    <td align="center" width="25%"><h3>94.42%</h3><sub>ACCURACY</sub></td>  
     <td align="center" width="25%"><h3>94.58%</h3><sub>F1 SCORE</sub></td>
     <td align="center" width="25%"><h3>8,000</h3><sub>REVIEWS</sub></td>
     <td align="center" width="25%"><h3>3</h3><sub>STACKED MODELS</sub></td>
