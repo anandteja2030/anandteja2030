@@ -205,7 +205,7 @@ An interactive browser app that turns **sorting algorithms into animated, step-b
 <img src="assets/github-stats.svg" width="100%" alt="Illustrative GitHub developer activity visual for anandteja2030: a contribution-style grid and a Building, Learning, Contributing, Growing flow. Conceptual illustration, not live statistics." />
 <img src="assets/most-used-languages.svg" width="100%" alt="Core development languages: Java as the primary language, with HTML5, CSS3 and JavaScript." />
 
-<img src="https://streak-stats.demolab.com?user=anandteja2030&theme=dark&background=0B1220&border=1F2E4B&border_radius=14&ring=22D3EE&fire=8B5CF6&currStreakNum=F1F5F9&currStreakLabel=22D3EE&sideNums=F1F5F9&sideLabels=8DA0BC&dates=8DA0BC" width="70%" alt="GitHub contribution streak for anandteja2030" />
+<img src="https://streak-stats.demolab.com/?user=anandteja2030&theme=dark&background=0B1220&border=1F2E4B&border_radius=14&ring=22D3EE&fire=8B5CF6&currStreakNum=F1F5F9&currStreakLabel=22D3EE&sideNums=F1F5F9&sideLabels=8DA0BC&dates=8DA0BC" width="70%" alt="GitHub contribution streak for anandteja2030" />
 
 
 </div>
