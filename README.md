@@ -38,14 +38,14 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/01-DATASET-0891B2?style=for-the-badge&labelColor=0B1220" alt="Dataset" />&nbsp;➜&nbsp;<img src="https://img.shields.io/badge/02-FEATURES-2563EB?style=for-the-badge&labelColor=0B1220" alt="Features" />&nbsp;➜&nbsp;<img src="https://img.shields.io/badge/03-STACKING%20ENSEMBLE-4F46E5?style=for-the-badge&labelColor=0B1220" alt="Stacking Ensemble" />&nbsp;➜&nbsp;<img src="https://img.shields.io/badge/04-EXPLAINABLE%20DASHBOARD-7C3AED?style=for-the-badge&labelColor=0B1220" alt="Explainable Dashboard" />
+<img height="34" src="https://img.shields.io/badge/01-DATASET-0891B2?style=for-the-badge&labelColor=0B1220" alt="Dataset" />&nbsp;➜&nbsp;<img height="34" src="https://img.shields.io/badge/02-FEATURES-2563EB?style=for-the-badge&labelColor=0B1220" alt="Features" />&nbsp;➜&nbsp;<img height="34" src="https://img.shields.io/badge/03-STACKING%20ENSEMBLE-4F46E5?style=for-the-badge&labelColor=0B1220" alt="Stacking Ensemble" />&nbsp;➜&nbsp;<img height="34" src="https://img.shields.io/badge/04-EXPLAINABLE%20DASHBOARD-7C3AED?style=for-the-badge&labelColor=0B1220" alt="Explainable Dashboard" />
 
-<br />
+<br /><br />
 
-<img src="https://img.shields.io/badge/ACCURACY-94.42%25-22D3EE?style=for-the-badge&labelColor=0B1220" alt="Accuracy 94.42%" />
-<img src="https://img.shields.io/badge/F1%20SCORE-94.58%25-6366F1?style=for-the-badge&labelColor=0B1220" alt="F1 score 94.58%" />
-<img src="https://img.shields.io/badge/REVIEWS-8%2C000-8B5CF6?style=for-the-badge&labelColor=0B1220" alt="8,000 reviews" />
-<img src="https://img.shields.io/badge/STACKED%20MODELS-3-F59E0B?style=for-the-badge&labelColor=0B1220" alt="3 stacked models" />
+<img height="38" src="https://img.shields.io/badge/ACCURACY-94.42%25-22D3EE?style=for-the-badge&labelColor=0B1220" alt="Accuracy 94.42%" />
+<img height="38" src="https://img.shields.io/badge/F1%20SCORE-94.58%25-6366F1?style=for-the-badge&labelColor=0B1220" alt="F1 score 94.58%" />
+<img height="38" src="https://img.shields.io/badge/REVIEWS-8%2C000-8B5CF6?style=for-the-badge&labelColor=0B1220" alt="8,000 reviews" />
+<img height="38" src="https://img.shields.io/badge/STACKED%20MODELS-3-F59E0B?style=for-the-badge&labelColor=0B1220" alt="3 stacked models" />
 
 </div>
 
@@ -53,29 +53,32 @@
 
 > **Hybrid NLP & Stacking Ensemble Learning** — a balanced fake-vs-genuine review classifier with explainable predictions.
 
-<table width="100%">
+<table>
+  <tr>
+    <td colspan="2"><img src="assets/spacer.png" width="1000" height="1" alt="" /></td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>📊 Dataset</h4>
+      <h3>📊 Dataset</h3>
       Balanced set of <strong>8,000 reviews</strong><br /><br />
-      <code>50% fake</code> <code>50% genuine</code>
+      <code>50% fake</code> <code>50% genuine</code><br /><br />
     </td>
     <td width="50%" valign="top">
-      <h4>🧩 Features · 4 categories</h4>
+      <h3>🧩 Features · 4 categories</h3>
       <code>TF-IDF</code> <code>Sentence-BERT embeddings</code><br />
-      <code>Sentiment analysis</code> <code>Handcrafted linguistic attributes</code>
+      <code>Sentiment analysis</code> <code>Handcrafted linguistic attributes</code><br /><br />
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <h4>🧠 Model · Stacking Ensemble</h4>
+      <h3>🧠 Model · Stacking Ensemble</h3>
       <code>Logistic Regression</code> + <code>XGBoost</code> + <code>LightGBM</code><br /><br />
-      <strong>94.42% accuracy</strong> · <strong>94.58% F1 score</strong>
+      <strong>94.42% accuracy</strong> · <strong>94.58% F1 score</strong><br /><br />
     </td>
     <td valign="top">
-      <h4>📈 Dashboard · Streamlit</h4>
+      <h3>📈 Dashboard · Streamlit</h3>
       <strong>Trust scores</strong> · <strong>fake-review probability</strong><br />
-      <strong>explainable predictions</strong> · <strong>visual analytics</strong>
+      <strong>explainable predictions</strong> · <strong>visual analytics</strong><br /><br />
     </td>
   </tr>
 </table>
@@ -84,20 +87,20 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-<img src="https://img.shields.io/badge/XGBoost-189FDD?style=flat-square" alt="XGBoost" />
-<img src="https://img.shields.io/badge/LightGBM-2E8B57?style=flat-square" alt="LightGBM" />
-<img src="https://img.shields.io/badge/Sentence--BERT-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Sentence-BERT" />
-<img src="https://img.shields.io/badge/TF--IDF-6366F1?style=flat-square" alt="TF-IDF" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+<img height="28" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img height="28" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img height="28" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+<img height="28" src="https://img.shields.io/badge/XGBoost-189FDD?style=flat-square" alt="XGBoost" />
+<img height="28" src="https://img.shields.io/badge/LightGBM-2E8B57?style=flat-square" alt="LightGBM" />
+<img height="28" src="https://img.shields.io/badge/Sentence--BERT-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Sentence-BERT" />
+<img height="28" src="https://img.shields.io/badge/TF--IDF-6366F1?style=flat-square" alt="TF-IDF" />
+<img height="28" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
 
 </div>
 
 <br />
-### Interactive Sorting Algorithm Visualizer <sub>· September 2025</sub>
 
+### Interactive Sorting Algorithm Visualizer <sub>· September 2025</sub>
 <img src="assets/project-sorting-visualizer.svg" width="100%" alt="Algorithm lab visualization of the Interactive Sorting Algorithm Visualizer: Bubble, Selection, Insertion, Merge and Quick Sort with comparison, swap, partition, merge and sorted states, plus four controls — custom array input, random array generation, adjustable animation speed and performance statistics." />
 
 An interactive browser app that turns **sorting algorithms into animated, step-by-step visuals**, with real-time **comparison** and **swap** display.
