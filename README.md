@@ -18,28 +18,7 @@
 
 > **AI & Data Science undergraduate** with a **Java Full Stack Developer** direction. I build with Java fundamentals, web technologies and applied machine learning, and I am targeting an **entry-level** role.
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <strong>☕ Java Foundations</strong><br />
-      <sub>Java · Object-Oriented Programming · Data Structures & Algorithms · SQL</sub>
-    </td>
-    <td width="50%" valign="top">
-      <strong>🌐 Web Development</strong><br />
-      <sub>HTML5 · CSS3 · JavaScript · 2nd Prize in a hackathon for a MERN-stack web application</sub>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <strong>🧠 Applied AI</strong><br />
-      <sub>Python ML pipelines · NLP feature engineering · stacking ensembles</sub>  
-    </td>
-    <td valign="top">
-      <strong>⚙️ Working Style</strong><br />
-      <sub>Project-driven learning · measurable results · Git-based collaboration</sub>
-    </td>
-  </tr>
-</table>
+<img src="assets/profile.svg" width="100%" alt="Developer profile in four areas. Java Foundations: Java, Object-Oriented Programming, Data Structures and Algorithms, SQL. Web Development: HTML5, CSS3, JavaScript, and 2nd Prize in a hackathon for a MERN-stack web application. Applied AI: Python ML pipelines, NLP feature engineering, stacking ensembles. Working Style: project-driven learning, measurable results, Git-based collaboration." />
 
 <br />
 
