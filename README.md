@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <img src="assets/hero.svg" width="100%" alt="Anand Teja Dasari — Aspiring Java Full Stack Developer and Artificial Intelligence and Data Science undergraduate. Engineering signals: CGPA 8.87 out of 10, 94.42% ML accuracy, 94.58% F1 score, 8,000 reviews, 2 internships, 5 sorting algorithms." />
 
