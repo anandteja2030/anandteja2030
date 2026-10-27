@@ -30,33 +30,72 @@
 
 ## Project Lab
 
-### Explainable Fake Review Detection <sub>· June 2025</sub>  
+### Explainable Fake Review Detection <sub>· June 2025</sub>
 
 <img src="assets/project-fake-review.svg" width="100%" alt="Pipeline visualization of Explainable Fake Review Detection: 8,000 reviews, four feature categories, a three-model stacking ensemble, trust score and explainable predictions in a Streamlit dashboard. Accuracy 94.42%, F1 score 94.58%." />
 
-`Dataset` → `Features` → `Stacking Ensemble` → `Explainable Dashboard`
+<br />
 
-<table width="100%">
-  <tr>
-    <td align="center" width="25%"><h3>94.42%</h3><sub>ACCURACY</sub></td>  
-    <td align="center" width="25%"><h3>94.58%</h3><sub>F1 SCORE</sub></td>
-    <td align="center" width="25%"><h3>8,000</h3><sub>REVIEWS</sub></td>
-    <td align="center" width="25%"><h3>3</h3><sub>STACKED MODELS</sub></td>
-  </tr>
-</table>
+<div align="center">
 
-**Hybrid NLP & Stacking Ensemble Learning**
-
-- **Dataset** — Balanced set of **8,000 reviews**: **50% fake** · **50% genuine**
-- **Features** — 4 categories: `TF-IDF` · `Sentence-BERT embeddings` · `Sentiment analysis` · `Handcrafted linguistic attributes`
-- **Model** — Stacking ensemble of `Logistic Regression` + `XGBoost` + `LightGBM`
-- **Results** — **94.42% accuracy** · **94.58% F1 score**
-- **Dashboard** — Streamlit interface with **trust scores**, **fake-review probability**, **explainable predictions** and **visual analytics**
-
-`Python` `Streamlit` `Scikit-learn` `XGBoost` `LightGBM` `Sentence-BERT` `TF-IDF` `Pandas`
+<img src="https://img.shields.io/badge/01-DATASET-0891B2?style=for-the-badge&labelColor=0B1220" alt="Dataset" />&nbsp;➜&nbsp;<img src="https://img.shields.io/badge/02-FEATURES-2563EB?style=for-the-badge&labelColor=0B1220" alt="Features" />&nbsp;➜&nbsp;<img src="https://img.shields.io/badge/03-STACKING%20ENSEMBLE-4F46E5?style=for-the-badge&labelColor=0B1220" alt="Stacking Ensemble" />&nbsp;➜&nbsp;<img src="https://img.shields.io/badge/04-EXPLAINABLE%20DASHBOARD-7C3AED?style=for-the-badge&labelColor=0B1220" alt="Explainable Dashboard" />
 
 <br />
 
+<img src="https://img.shields.io/badge/ACCURACY-94.42%25-22D3EE?style=for-the-badge&labelColor=0B1220" alt="Accuracy 94.42%" />
+<img src="https://img.shields.io/badge/F1%20SCORE-94.58%25-6366F1?style=for-the-badge&labelColor=0B1220" alt="F1 score 94.58%" />
+<img src="https://img.shields.io/badge/REVIEWS-8%2C000-8B5CF6?style=for-the-badge&labelColor=0B1220" alt="8,000 reviews" />
+<img src="https://img.shields.io/badge/STACKED%20MODELS-3-F59E0B?style=for-the-badge&labelColor=0B1220" alt="3 stacked models" />
+
+</div>
+
+<br />
+
+> **Hybrid NLP & Stacking Ensemble Learning** — a balanced fake-vs-genuine review classifier with explainable predictions.
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📊 Dataset</h4>
+      Balanced set of <strong>8,000 reviews</strong><br /><br />
+      <code>50% fake</code> <code>50% genuine</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧩 Features · 4 categories</h4>
+      <code>TF-IDF</code> <code>Sentence-BERT embeddings</code><br />
+      <code>Sentiment analysis</code> <code>Handcrafted linguistic attributes</code>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h4>🧠 Model · Stacking Ensemble</h4>
+      <code>Logistic Regression</code> + <code>XGBoost</code> + <code>LightGBM</code><br /><br />
+      <strong>94.42% accuracy</strong> · <strong>94.58% F1 score</strong>
+    </td>
+    <td valign="top">
+      <h4>📈 Dashboard · Streamlit</h4>
+      <strong>Trust scores</strong> · <strong>fake-review probability</strong><br />
+      <strong>explainable predictions</strong> · <strong>visual analytics</strong>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/XGBoost-189FDD?style=flat-square" alt="XGBoost" />
+<img src="https://img.shields.io/badge/LightGBM-2E8B57?style=flat-square" alt="LightGBM" />
+<img src="https://img.shields.io/badge/Sentence--BERT-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Sentence-BERT" />
+<img src="https://img.shields.io/badge/TF--IDF-6366F1?style=flat-square" alt="TF-IDF" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+
+</div>
+
+<br />
 ### Interactive Sorting Algorithm Visualizer <sub>· September 2025</sub>
 
 <img src="assets/project-sorting-visualizer.svg" width="100%" alt="Algorithm lab visualization of the Interactive Sorting Algorithm Visualizer: Bubble, Selection, Insertion, Merge and Quick Sort with comparison, swap, partition, merge and sorted states, plus four controls — custom array input, random array generation, adjustable animation speed and performance statistics." />
